@@ -12,4 +12,5 @@ CrawlX was orginally designed for use in pentesting engagements or bug bounty pr
 
 ## Q&A
 Q. What do you mean by "Targeted" web crawler
+
 A. This script was orginally designed for security audits, rather than crawling the entire internet. Thus when finding links we only look for "in-scope" links (matching the orginal domain or its subdomains in the --URL param)
